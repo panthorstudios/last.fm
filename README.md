@@ -11,7 +11,7 @@ Running the script:
 ./lastfm.py
 ```
 
-creates an image showing the top 5 artists listened over the last 6 months. Something like this:
+creates an image showing the top 5 artists listened over the last 6 months. Something like this (*NOTE: this may or may not represent my listening history*):
 
 ![Sample Image](images/lastfm-20150623.png "Sample image")
 
