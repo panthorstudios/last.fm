@@ -1,9 +1,0 @@
-<p><b>Top artists for the week ending 04 Dec 2011</b></p>
-<p>Commentary goes here.</p>
-<ol>
-<li><a target="_blank" href="http://www.last.fm/music/The+Beach+Boys">The Beach Boys</a></li>
-<li><a target="_blank" href="http://www.last.fm/music/Terence+Trent+D%27Arby">Terence Trent D'Arby</a></li>
-<li><a target="_blank" href="http://www.last.fm/music/Noel+Gallagher%27s+High+Flying+Birds">Noel Gallagher's High Flying Birds</a></li>
-<li><a target="_blank" href="http://www.last.fm/music/Childish+Gambino">Childish Gambino</a></li>
-<li><a target="_blank" href="http://www.last.fm/music/Del+McCoury+Band+and+the+Preservation+Hall+Jazz+Band">Del McCoury Band and the Preservation Hall Jazz Band</a></li>
-</ol>
