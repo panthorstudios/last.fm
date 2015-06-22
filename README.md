@@ -5,11 +5,13 @@ I did these a few years ago to make a short summary of my last.fm listening habi
 
 You'll need to add LASTFM_USER_NAME and LASTFM_API_KEY as environment variables (try .bash.profile).
 
+```
 ./lastfm.py
+```
 
 creates an image showing the top 5 artists listened over the last 6 months. Something like this:
 
-[images/lastfm-20150622.png](Image)
+(./images/lastfm-20150622.png Sample image)
 
 I need to add customization, etc. but it suits my purpose.
 
