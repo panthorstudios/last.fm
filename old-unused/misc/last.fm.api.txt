@@ -1,0 +1,5 @@
+Your API Key is 3ab0cd14f79b0c4e534f5834bb98a2a5
+Your secret is 4749b1cb72656fa4c9ac748e2e368e22
+
+http://ws.audioscrobbler.com/2.0/?method=user.getweeklyartistchart&user=panthor7&api_key=3ab0cd14f79b0c4e534f5834bb98a2a5
+
